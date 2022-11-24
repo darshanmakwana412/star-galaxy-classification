@@ -1,0 +1,7 @@
+EDA
+Regression
+
+KNN
+full array
+
+error vs model plot
