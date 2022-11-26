@@ -1,5 +1,0 @@
-Regression
-Random Forrest
-K Nearest Neighbour Classifier
-
-Errors vs Model Plots
