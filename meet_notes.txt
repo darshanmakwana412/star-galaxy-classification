@@ -1,7 +1,5 @@
-EDA
 Regression
+Random Forrest
+K Nearest Neighbour Classifier
 
-KNN
-full array
-
-error vs model plot
+Errors vs Model Plots
